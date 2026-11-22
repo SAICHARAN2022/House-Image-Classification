@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+*.pyc
+Dataset/
+test/
+intel_cnn.keras
+house_model_v1.keras
